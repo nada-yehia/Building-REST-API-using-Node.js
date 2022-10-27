@@ -5,7 +5,7 @@ Creation of simple MongoDB database on MongoDB Atlas with the following collecti
   - Products (ID, Name, Price, Quantity, ImgURL, CateogryID)
   - Category (ID, Name)
 
-with the following API endpoints:
+and implementation of the following API endpoints:
 
 - GET: /categories
 - GET: /products
